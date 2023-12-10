@@ -1,0 +1,291 @@
+{
+  "item": {
+    "basic": {
+      "comment_id_str": "615837991733041527",
+      "comment_type": 17,
+      "like_icon": {
+        "action_url": "",
+        "end_url": "",
+        "id": 0,
+        "start_url": ""
+      },
+      "rid_str": "616209080557502464"
+    },
+    "id_str": "615837991733041527",
+    "modules": {
+      "module_author": {
+        "avatar": {
+          "container_size": {
+            "height": 1.35,
+            "width": 1.35
+          },
+          "fallback_layers": {
+            "is_critical_group": true,
+            "layers": [
+              {
+                "general_spec": {
+                  "pos_spec": {
+                    "axis_x": 0.675,
+                    "axis_y": 0.675,
+                    "coordinate_pos": 2
+                  },
+                  "render_spec": {
+                    "opacity": 1
+                  },
+                  "size_spec": {
+                    "height": 1,
+                    "width": 1
+                  }
+                },
+                "layer_config": {
+                  "is_critical": true,
+                  "tags": {
+                    "AVATAR_LAYER": {},
+                    "GENERAL_CFG": {
+                      "config_type": 1,
+                      "general_config": {
+                        "web_css_style": {
+                          "borderRadius": "50%"
+                        }
+                      }
+                    }
+                  }
+                },
+                "resource": {
+                  "res_image": {
+                    "image_src": {
+                      "placeholder": 6,
+                      "remote": {
+                        "bfs_style": "widget-layer-avatar",
+                        "url": "https://i2.hdslb.com/bfs/face/0f9d43edb4a34c39364edec21327dee316bba088.jpg"
+                      },
+                      "src_type": 1
+                    }
+                  },
+                  "res_type": 3
+                },
+                "visible": true
+              },
+              {
+                "general_spec": {
+                  "pos_spec": {
+                    "axis_x": 0.8000000000000002,
+                    "axis_y": 0.8000000000000002,
+                    "coordinate_pos": 1
+                  },
+                  "render_spec": {
+                    "opacity": 1
+                  },
+                  "size_spec": {
+                    "height": 0.41666666666666663,
+                    "width": 0.41666666666666663
+                  }
+                },
+                "layer_config": {
+                  "tags": {
+                    "GENERAL_CFG": {
+                      "config_type": 1,
+                      "general_config": {
+                        "web_css_style": {
+                          "background-color": "rgb(255,255,255)",
+                          "border": "2px solid rgba(255,255,255,1)",
+                          "borderRadius": "50%",
+                          "boxSizing": "border-box"
+                        }
+                      }
+                    },
+                    "ICON_LAYER": {}
+                  }
+                },
+                "resource": {
+                  "res_image": {
+                    "image_src": {
+                      "local": 1,
+                      "src_type": 2
+                    }
+                  },
+                  "res_type": 3
+                },
+                "visible": true
+              }
+            ]
+          },
+          "mid": "13692281"
+        },
+        "decorate": {
+          "card_url": "https://i0.hdslb.com/bfs/vip/a9e3d993c7a15e88ce0bf714a142f7d2b44121e2.png",
+          "fan": {
+            "color": "",
+            "is_fan": false,
+            "num_str": "",
+            "number": 0
+          },
+          "id": 28,
+          "jump_url": "https://www.bilibili.com/h5/mall/equity-link/home?navhide=1&item_id=28&part=card&f_source=garb&from=post&isdiy=0",
+          "name": "2233娘",
+          "type": 2
+        },
+        "face": "https://i2.hdslb.com/bfs/face/0f9d43edb4a34c39364edec21327dee316bba088.jpg",
+        "face_nft": false,
+        "following": null,
+        "jump_url": "//space.bilibili.com/13692281/dynamic",
+        "label": "",
+        "mid": 13692281,
+        "name": "雷狼OAO",
+        "official_verify": {
+          "desc": "",
+          "type": -1
+        },
+        "pendant": {
+          "expire": 0,
+          "image": "",
+          "image_enhance": "",
+          "image_enhance_frame": "",
+          "name": "",
+          "pid": 0
+        },
+        "pub_action": "",
+        "pub_location_text": "",
+        "pub_time": "2022年01月15日 13:25",
+        "pub_ts": 1642224356,
+        "type": "AUTHOR_TYPE_NORMAL",
+        "vip": {
+          "avatar_subscript": 1,
+          "avatar_subscript_url": "",
+          "due_date": 1709913600000,
+          "label": {
+            "bg_color": "#FB7299",
+            "bg_style": 1,
+            "border_color": "",
+            "img_label_uri_hans": "",
+            "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+            "img_label_uri_hant": "",
+            "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png",
+            "label_theme": "annual_vip",
+            "path": "",
+            "text": "年度大会员",
+            "text_color": "#FFFFFF",
+            "use_img_label": true
+          },
+          "nickname_color": "#FB7299",
+          "status": 1,
+          "theme_type": 0,
+          "type": 2
+        }
+      },
+      "module_dynamic": {
+        "additional": null,
+        "desc": {
+          "rich_text_nodes": [
+            {
+              "emoji": {
+                "icon_url": "http://i0.hdslb.com/bfs/emote/0dd4434cf9c7e60edceb1f1357d4f28b86769068.png",
+                "size": 1,
+                "text": "[星]",
+                "type": 1
+              },
+              "orig_text": "[星]",
+              "text": "[星]",
+              "type": "RICH_TEXT_NODE_TYPE_EMOJI"
+            },
+            {
+              "emoji": {
+                "icon_url": "http://i0.hdslb.com/bfs/emote/b03443bfd47ca20837057fd0ab59116515530e1f.png",
+                "size": 1,
+                "text": "[空星]",
+                "type": 1
+              },
+              "orig_text": "[空星]",
+              "text": "[空星]",
+              "type": "RICH_TEXT_NODE_TYPE_EMOJI"
+            },
+            {
+              "emoji": {
+                "icon_url": "http://i0.hdslb.com/bfs/emote/b03443bfd47ca20837057fd0ab59116515530e1f.png",
+                "size": 1,
+                "text": "[空星]",
+                "type": 1
+              },
+              "orig_text": "[空星]",
+              "text": "[空星]",
+              "type": "RICH_TEXT_NODE_TYPE_EMOJI"
+            },
+            {
+              "emoji": {
+                "icon_url": "http://i0.hdslb.com/bfs/emote/b03443bfd47ca20837057fd0ab59116515530e1f.png",
+                "size": 1,
+                "text": "[空星]",
+                "type": 1
+              },
+              "orig_text": "[空星]",
+              "text": "[空星]",
+              "type": "RICH_TEXT_NODE_TYPE_EMOJI"
+            },
+            {
+              "emoji": {
+                "icon_url": "http://i0.hdslb.com/bfs/emote/b03443bfd47ca20837057fd0ab59116515530e1f.png",
+                "size": 1,
+                "text": "[空星]",
+                "type": 1
+              },
+              "orig_text": "[空星]",
+              "text": "[空星]",
+              "type": "RICH_TEXT_NODE_TYPE_EMOJI"
+            },
+            {
+              "orig_text": "\n逐渐开始迷惑",
+              "text": "\n逐渐开始迷惑",
+              "type": "RICH_TEXT_NODE_TYPE_TEXT"
+            }
+          ],
+          "text": "[星][空星][空星][空星][空星]\n逐渐开始迷惑"
+        },
+        "major": {
+          "common": {
+            "badge": {
+              "bg_color": "",
+              "color": "",
+              "text": ""
+            },
+            "biz_type": 0,
+            "cover": "http://i0.hdslb.com/bfs/bangumi/image/8aead7650fb3ded88f24654b7b66823169cb9a8c.png",
+            "desc": "7.0分",
+            "id": "616209080557502464",
+            "jump_url": "https://www.bilibili.com/bangumi/play/ss39462",
+            "label": "",
+            "sketch_id": "607788848528753168",
+            "style": 1,
+            "title": "国王排名"
+          },
+          "type": "MAJOR_TYPE_COMMON"
+        },
+        "topic": null
+      },
+      "module_more": {
+        "three_point_items": [
+          {
+            "label": "举报",
+            "type": "THREE_POINT_REPORT"
+          }
+        ]
+      },
+      "module_stat": {
+        "comment": {
+          "count": 5,
+          "forbidden": false
+        },
+        "forward": {
+          "count": 0,
+          "forbidden": false
+        },
+        "like": {
+          "count": 28,
+          "forbidden": false,
+          "status": false
+        }
+      }
+    },
+    "type": "DYNAMIC_TYPE_COMMON_SQUARE",
+    "visible": true
+  }
+}

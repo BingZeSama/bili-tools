@@ -1,0 +1,321 @@
+{
+  "item": {
+    "basic": {
+      "comment_id_str": "258766407",
+      "comment_type": 11,
+      "jump_url": "//www.bilibili.com/opus/818037742009057299",
+      "like_icon": {
+        "action_url": "",
+        "end_url": "",
+        "id": 0,
+        "start_url": ""
+      },
+      "rid_str": "258766407"
+    },
+    "id_str": "818037742009057299",
+    "modules": {
+      "module_author": {
+        "avatar": {
+          "container_size": {
+            "height": 1.375,
+            "width": 1.375
+          },
+          "fallback_layers": {
+            "is_critical_group": "True",
+            "layers": [
+              {
+                "general_spec": {
+                  "pos_spec": {
+                    "axis_x": 0.6875,
+                    "axis_y": 0.6875,
+                    "coordinate_pos": 2
+                  },
+                  "render_spec": {
+                    "opacity": 1
+                  },
+                  "size_spec": {
+                    "height": 0.787,
+                    "width": 0.787
+                  }
+                },
+                "layer_config": {
+                  "is_critical": "True",
+                  "tags": {
+                    "AVATAR_LAYER": {},
+                    "GENERAL_CFG": {
+                      "config_type": 1,
+                      "general_config": {
+                        "web_css_style": {
+                          "borderRadius": "50%"
+                        }
+                      }
+                    }
+                  }
+                },
+                "resource": {
+                  "res_image": {
+                    "image_src": {
+                      "placeholder": 6,
+                      "remote": {
+                        "bfs_style": "widget-layer-avatar",
+                        "url": "https://i2.hdslb.com/bfs/face/1f87d9dcc17e7c6d37420ade1f0f5d5261691424.jpg"
+                      },
+                      "src_type": 1
+                    }
+                  },
+                  "res_type": 3
+                },
+                "visible": "True"
+              },
+              {
+                "general_spec": {
+                  "pos_spec": {
+                    "axis_x": 0.6875,
+                    "axis_y": 0.6875,
+                    "coordinate_pos": 2
+                  },
+                  "render_spec": {
+                    "opacity": 1
+                  },
+                  "size_spec": {
+                    "height": 1.375,
+                    "width": 1.375
+                  }
+                },
+                "layer_config": {
+                  "tags": {
+                    "PENDENT_LAYER": {}
+                  }
+                },
+                "resource": {
+                  "res_image": {
+                    "image_src": {
+                      "remote": {
+                        "bfs_style": "widget-layer-avatar",
+                        "url": "https://i2.hdslb.com/bfs/face/a959c72407b2ac553d4328fd76d55d0134e20f65.png"
+                      },
+                      "src_type": 1
+                    }
+                  },
+                  "res_type": 3
+                },
+                "visible": "True"
+              },
+              {
+                "general_spec": {
+                  "pos_spec": {
+                    "axis_x": 0.7560000000000001,
+                    "axis_y": 0.7726666666666667,
+                    "coordinate_pos": 1
+                  },
+                  "render_spec": {
+                    "opacity": 1
+                  },
+                  "size_spec": {
+                    "height": 0.41666666666666663,
+                    "width": 0.41666666666666663
+                  }
+                },
+                "layer_config": {
+                  "tags": {
+                    "GENERAL_CFG": {
+                      "config_type": 1,
+                      "general_config": {
+                        "web_css_style": {
+                          "background-color": "rgb(255,255,255)",
+                          "border": "2px solid rgba(255,255,255,1)",
+                          "borderRadius": "50%",
+                          "boxSizing": "border-box"
+                        }
+                      }
+                    },
+                    "ICON_LAYER": {}
+                  }
+                },
+                "resource": {
+                  "res_image": {
+                    "image_src": {
+                      "local": 1,
+                      "src_type": 2
+                    }
+                  },
+                  "res_type": 3
+                },
+                "visible": "True"
+              }
+            ]
+          },
+          "mid": "7876853"
+        },
+        "decorate": {
+          "card_url": "https://i0.hdslb.com/bfs/garb/item/5ba7f656de7b9160fec90438abd4605eaafa8613.png",
+          "fan": {
+            "color": "#3980ae",
+            "is_fan": "True",
+            "num_str": "031995",
+            "number": 31995
+          },
+          "id": 5110,
+          "jump_url": "https://www.bilibili.com/h5/mall/equity-link/home?navhide=1&item_id=5128&part=card&f_source=garb&from=post&isdiy=0",
+          "name": "罗小黑战记粉丝专属",
+          "type": 3
+        },
+        "face": "https://i2.hdslb.com/bfs/face/1f87d9dcc17e7c6d37420ade1f0f5d5261691424.jpg",
+        "face_nft": "False",
+        "following": "None",
+        "jump_url": "//space.bilibili.com/7876853/dynamic",
+        "label": "",
+        "mid": 7876853,
+        "name": "想长虎牙的雪吾w",
+        "official_verify": {
+          "desc": "",
+          "type": -1
+        },
+        "pendant": {
+          "expire": 0,
+          "image": "https://i2.hdslb.com/bfs/face/a959c72407b2ac553d4328fd76d55d0134e20f65.png",
+          "image_enhance": "https://i2.hdslb.com/bfs/face/a959c72407b2ac553d4328fd76d55d0134e20f65.png",
+          "image_enhance_frame": "",
+          "name": "异常生物",
+          "pid": 460
+        },
+        "pub_action": "",
+        "pub_location_text": "",
+        "pub_time": "2023年07月14日 10:44",
+        "pub_ts": 1689302654,
+        "type": "AUTHOR_TYPE_NORMAL",
+        "vip": {
+          "avatar_subscript": 1,
+          "avatar_subscript_url": "",
+          "due_date": 1692547200000,
+          "label": {
+            "bg_color": "#FB7299",
+            "bg_style": 1,
+            "border_color": "",
+            "img_label_uri_hans": "",
+            "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+            "img_label_uri_hant": "",
+            "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png",
+            "label_theme": "annual_vip",
+            "path": "",
+            "text": "年度大会员",
+            "text_color": "#FFFFFF",
+            "use_img_label": "True"
+          },
+          "nickname_color": "#FB7299",
+          "status": 1,
+          "theme_type": 0,
+          "type": 2
+        }
+      },
+      "module_dynamic": {
+        "additional": "None",
+        "desc": {
+          "rich_text_nodes": [
+            {
+              "orig_text": "“我去穿着puma买点橘子，你就在此地等候”\n衣服赞助：",
+              "text": "“我去穿着puma买点橘子，你就在此地等候”\n衣服赞助：",
+              "type": "RICH_TEXT_NODE_TYPE_TEXT"
+            },
+            {
+              "orig_text": "@猇犽 ",
+              "rid": "1931030982",
+              "text": "@猇犽 ",
+              "type": "RICH_TEXT_NODE_TYPE_AT"
+            },
+            {
+              "orig_text": "\n📷：",
+              "text": "\n📷：",
+              "type": "RICH_TEXT_NODE_TYPE_TEXT"
+            },
+            {
+              "orig_text": "@翼轩FerandEX ",
+              "rid": "420395967",
+              "text": "@翼轩FerandEX ",
+              "type": "RICH_TEXT_NODE_TYPE_AT"
+            },
+            {
+              "orig_text": "\n",
+              "text": "\n",
+              "type": "RICH_TEXT_NODE_TYPE_TEXT"
+            },
+            {
+              "jump_url": "//search.bilibili.com/all?keyword=fursuitfriday",
+              "orig_text": "#fursuitfriday#",
+              "text": "#fursuitfriday#",
+              "type": "RICH_TEXT_NODE_TYPE_TOPIC"
+            },
+            {
+              "orig_text": " ",
+              "text": " ",
+              "type": "RICH_TEXT_NODE_TYPE_TEXT"
+            },
+            {
+              "jump_url": "//search.bilibili.com/all?keyword=fursuit",
+              "orig_text": "#fursuit#",
+              "text": "#fursuit#",
+              "type": "RICH_TEXT_NODE_TYPE_TOPIC"
+            },
+            {
+              "orig_text": " ",
+              "text": " ",
+              "type": "RICH_TEXT_NODE_TYPE_TEXT"
+            },
+            {
+              "jump_url": "//search.bilibili.com/all?keyword=%E6%AF%9B%E6%AF%9B%E6%98%9F%E6%9C%9F%E4%BA%94",
+              "orig_text": "#毛毛星期五#",
+              "text": "#毛毛星期五#",
+              "type": "RICH_TEXT_NODE_TYPE_TOPIC"
+            }
+          ],
+          "text": "“我去穿着puma买点橘子，你就在此地等候”\n衣服赞助：@猇犽 \n📷：@翼轩FerandEX \n#fursuitfriday# #fursuit# #毛毛星期五#"
+        },
+        "major": {
+          "draw": {
+            "id": 258766407,
+            "items": [
+              {
+                "height": 1603,
+                "size": 455.06,
+                "src": "https://i0.hdslb.com/bfs/new_dyn/03f5e57bee60da11b24b69565f922cdd7876853.jpg",
+                "tags": [],
+                "width": 1080
+              }
+            ]
+          },
+          "type": "MAJOR_TYPE_DRAW"
+        },
+        "topic": {
+          "id": 34561,
+          "jump_url": "https://m.bilibili.com/topic-detail?topic_id=34561&topic_name=%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%85%BD%E8%A3%85%E6%98%9F%E6%9C%9F%E4%BA%94",
+          "name": "今天是兽装星期五"
+        }
+      },
+      "module_more": {
+        "three_point_items": [
+          {
+            "label": "举报",
+            "type": "THREE_POINT_REPORT"
+          }
+        ]
+      },
+      "module_stat": {
+        "comment": {
+          "count": 8,
+          "forbidden": "False"
+        },
+        "forward": {
+          "count": 1,
+          "forbidden": "False"
+        },
+        "like": {
+          "count": 107,
+          "forbidden": "False",
+          "status": "False"
+        }
+      }
+    },
+    "type": "DYNAMIC_TYPE_DRAW",
+    "visible": "True"
+  }
+}
